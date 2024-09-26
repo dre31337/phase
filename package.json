@@ -1,0 +1,14 @@
+{
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite --host"
+	},
+	"dependencies": {
+		"ogl": "^1.0.8",
+		"uuid": "^10.0.0",
+		"vite": "^5.4.7",
+		"vite-plugin-glsl": "^1.3.0"
+	},
+	"packageManager": "pnpm@8.7.6+sha1.a428b12202bc4f23b17e6dffe730734dae5728e2"
+}
